@@ -1,33 +1,33 @@
 {
-  "name": "Parrot Hatching #4735",
+  "name": "Parrot Tools #34",
   "symbol": "PH",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://bafybeih3m3cgsefk2npp27xndwrz6pfgrjkx4254jwkq7zsy52dguhci2m.ipfs.dweb.link/0.gif?ext=gif",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeic6n5jie6skizm7xhri5m3fesy24gzzjotq5zqspe7aaun3fqyxse.ipfs.dweb.link/34.png?ext=png",
   "attributes": [
    {
       "trait_type": "Backgrounds",
-      "value": "None"
+      "value": "Red"
     },
     {
       "trait_type": "Parrots",
-      "value": "None"
+      "value": "Crimson"
     },
     {
       "trait_type": "Clothing",
-      "value": "None"
+      "value": "Bubblecoat Blue"
     },
     {
       "trait_type": "Eyes",
-      "value": "None"
+      "value": "Doe Eyed Blue"
     },
     {
       "trait_type": "Headwear",
-      "value": "None"
+      "value": "Beanie Green"
     },
     {
       "trait_type": "Beaks",
-      "value": "None"
+      "value": "Sharp Yellow"
     }
   ],
   "properties": {
